@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @richardmcgee1 
-- 👀 I’m interested in paediatric research methods and standards
-- 💞️ I’m looking to collaborate on paediatric research
+- 👋 Hi, I’m Professor Richard McGee 
+- 👀 I’m an academic paediatric endocrinologist wth multiple research interests
+- 💞️ This is where I keep my AI and other related research projects and code
 - 📫 How to reach me https://www.newcastle.edu.au/profile/richard-mcgee
 
 <!---
